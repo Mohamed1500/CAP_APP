@@ -26,6 +26,7 @@ Een SAP CAP + Fiori Elements applicatie die data ophaalt uit een iFlow API via d
 
    ```bash
    npm install
+   npm install axios dotenv
    ```
 
 3. **Voeg een `.env` bestand toe in de rootfolder**  
