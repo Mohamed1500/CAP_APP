@@ -79,10 +79,15 @@ Een SAP CAP + Fiori Elements applicatie die data ophaalt uit een iFlow API via d
 
 ## IFlow
 
-CP007-IF002 Datasphere To Fiori:  
+CP007-IF001 Datasphere To Fiori:  
 
 
 [https://41208216trial.integrationsuite-trial.cfapps.us10-001.hana.ondemand.com/shell/design/contentpackage/CP007MohamedMachmache/integrationflows/CP007-IF001-datasphare_to_fiori]
+
+
+CP007-IF002 Datasphere To Fiori:  
+
+[https://41208216trial.integrationsuite-trial.cfapps.us10-001.hana.ondemand.com/shell/design/contentpackage/CP007MohamedMachmache/integrationflows/CP007-IF001_succesfactors_to_datasphare]
 
 ---
 
